@@ -12,7 +12,5 @@ b = ones(3)
 ###
 
 # vérification
-# si besoin installer le module Test avec:
-# ]add Test 
 using Test
-@test norm(A * x - b) ≤ sqrt(eps())
+@test norm(A * x - b) ≤ sqrt(eps()) * norm(b)
