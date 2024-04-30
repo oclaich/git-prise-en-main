@@ -7,4 +7,5 @@
 5. validez vos changements en exécutant le script avec Julia ;
 6. consignez vos changements à votre branche locale ;
 7. publiez votre branche sur votre *fork* distant ;
-8. ouvrez une *pull request* proposant vos modifications à la branche `main` de votre *fork*.
+8. ouvrez une *pull request* proposant vos modifications à la branche `main` de votre *fork* (laissez cette *pull request* ouverte).
+
