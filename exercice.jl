@@ -8,6 +8,8 @@ b = ones(n)
 
 # résoudre Ax = b
 
+x = A \ b
+
 ### votre code ici ; ne rien modifier d'autre
 x = rand(n)
 ###
